@@ -1,24 +1,16 @@
-# Task 1 – Titanic Survival Prediction
+# CODSOFT Data Science Internship
 
-## 📌 Objective
-Build a machine learning model to predict whether a passenger survived the Titanic disaster.
+## Task-1: Titanic Survival Prediction
+- Objective: Predict survival of passengers.
+- Tools: Python, Pandas, Scikit-learn
+- Result: ~0.80 accuracy
 
-## 🛠️ Tools & Libraries
-- Python
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
+## Task-3: Iris Flower Classification
+- Objective: Classify iris flowers into species.
+- Tools: Python, Scikit-learn
+- Result: 1.0 (100% accuracy)
 
-## ⚙️ Steps Performed
-✔ Data Cleaning  
-✔ Handling Missing Values  
-✔ Feature Encoding  
-✔ Model Training (Logistic Regression)  
-✔ Model Evaluation  
-
-## 🎯 Result
-Model Accuracy: ~0.80
-
-## 📊 Dataset
-Titanic Dataset
+## Task-4: Sales Prediction
+- Objective: Predict sales using TV, Radio & Newspaper data.
+- Tools: Python, Scikit-learn
+- Result: R² Score: [your result]
